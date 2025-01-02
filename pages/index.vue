@@ -304,22 +304,22 @@ const db_teachers = ref([
     id: 3,
     name: 'Cegah Geng Motor, SMKN di Tasikmalaya Luncurkan Ekstrakurikuler Unik',
     subject: 'https://bandung.kompas.com/read/2024/07/24/115239678/cegah-geng-motor-smkn-di-tasikmalaya-luncurkan-ekstrakurikuler-unik',
-    image: new URL('@/assets/news1.jpeg', import.meta.url).href  },  
+    image: new URL('@/assets/news3.jpg', import.meta.url).href  },  
   {
     id: 4,
     name: 'Polsek Cibeureum Sosialisasikan Larangan Knalpot Brong dan Geng Motor di SMKN 4 Kota Tasikmalaya',
     subject: 'https://tasikmalaya.inews.id/read/502735/polsek-cibeureum-sosialisasikan-larangan-knalpot-brong-dan-geng-motor-di-smkn-4-kota-tasikmalaya',
-    image: new URL('@/assets/news2.jpeg', import.meta.url).href  }, 
+    image: new URL('@/assets/news4.jpg', import.meta.url).href  }, 
   {
     id: 5,
     name: 'Honda Edukasi Jurnalis di Tasikmalaya, dari Simulator Hingga Prediksi Bahaya di Jalan',
     subject: 'https://radartasik.id/2024/07/24/honda-edukasi-jurnalis-di-tasikmalaya-dari-simulator-hingga-prediksi-bahaya-di-jalan/',
-    image: new URL('@/assets/news1.jpeg', import.meta.url).href  }, 
+    image: new URL('@/assets/news5.webp', import.meta.url).href  }, 
   {
     id: 6,
     name: 'Siswa SMKN 4 Tasikmalaya Adu Inovasi dan Kreativitas di Expo Creanova',
     subject: 'https://radartasik.id/2023/03/02/siswa-smkn-4-tasikmalaya-adu-inovasi-dan-kreativitas-di-expo-creanova/',
-    image: new URL('@/assets/news2.jpeg', import.meta.url).href  }, 
+    image: new URL('@/assets/news6.webp', import.meta.url).href  }, 
 ]);
 
 // Ambil 5 data awal
