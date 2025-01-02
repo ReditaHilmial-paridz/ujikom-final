@@ -69,7 +69,7 @@
   width: 100%;
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url(assets/bg.jpg);
+    url(assets/bg.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50%;
