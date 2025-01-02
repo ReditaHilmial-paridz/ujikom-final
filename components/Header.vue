@@ -20,6 +20,9 @@
                     <li>
                       <nuxt-link to="/ekskul"><a href="">Ekstrakulikuler</a></nuxt-link>
                     </li>
+                    <li>
+                      <nuxt-link to="/biodata"><a href="">Biodata</a></nuxt-link>
+                    </li>
                 </ul>
             </div>
             <label for="show-search" class="search-icon"><i class="fas fa-search"></i></label>
